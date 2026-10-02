@@ -1,0 +1,7 @@
+node_modules/
+cookies.txt
+*.log
+.env
+link2video-renders/
+renders/
+.DS_Store
